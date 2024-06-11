@@ -6,7 +6,7 @@ meu nome é gabriel
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### voce pode entrar em contato comigo 💌
+### você pode entrar em contato comigo 💌
 
 00001147615846sp@al.educacao.sp.gov.br
 
